@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LensText AI",
+  "description": "A powerful OCR web application that uses Google Gemini 2.5 Flash to instantly extract and digitize text from camera captures or uploaded images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
